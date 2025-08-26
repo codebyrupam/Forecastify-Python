@@ -61,6 +61,8 @@ Forecastify-Python/
 │── README.md                  # Documentation
 ```
 
+---
+
 ## ⚙️ Installation  
 
 Follow these steps to set up and run the project locally:
@@ -93,6 +95,8 @@ python weather_gui.py
 ```
 python Weather_Forecast_App.py
 ```
+---
+
 ## 🚀 Usage
 
 Once you have installed all dependencies, you can run the project in two modes:
@@ -125,6 +129,8 @@ Quick and minimal weather information
 
 Suitable for low-resource environments
 
+---
+
 ## 📸 Demo
 
 City: London
@@ -138,6 +144,8 @@ Humidity: 65%
 
 <img width="1087" height="363" alt="image" src="https://github.com/user-attachments/assets/095da76e-843c-4713-b09e-8335658dd410" />
 
+---
+
 
 ## 🛠️ Tech Stack
 
@@ -146,6 +154,8 @@ Language: Python 🐍
 Libraries: Tkinter, Requests
 
 API: OpenWeather API
+
+---
 
 ## 🧩 Roadmap
 
@@ -158,6 +168,8 @@ API: OpenWeather API
  Export weather data to CSV/PDF
 
  Build an installer (Windows/Linux)
+
+---
 
 ## 🤝 Contributing
 
@@ -173,10 +185,14 @@ Push to branch (git push origin feature/YourFeature)
 
 Open a Pull Request
 
+---
+
 ## 📜 License
 
 This project is licensed under the MIT License – see the LICENSE
  file for details.
+
+---
 
  ## 👨‍💻 Author
 
